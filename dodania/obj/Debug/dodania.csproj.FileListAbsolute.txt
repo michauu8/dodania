@@ -1,0 +1,9 @@
+C:\Users\Michał\Projekty\dodania\dodania\bin\Debug\dodania.exe.config
+C:\Users\Michał\Projekty\dodania\dodania\bin\Debug\dodania.exe
+C:\Users\Michał\Projekty\dodania\dodania\bin\Debug\dodania.pdb
+C:\Users\Michał\Projekty\dodania\dodania\obj\Debug\dodania.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Projekty\dodania\dodania\obj\Debug\dodania.Form1.resources
+C:\Users\Michał\Projekty\dodania\dodania\obj\Debug\dodania.Properties.Resources.resources
+C:\Users\Michał\Projekty\dodania\dodania\obj\Debug\dodania.csproj.GenerateResource.Cache
+C:\Users\Michał\Projekty\dodania\dodania\obj\Debug\dodania.exe
+C:\Users\Michał\Projekty\dodania\dodania\obj\Debug\dodania.pdb
